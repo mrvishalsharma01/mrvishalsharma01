@@ -1,6 +1,6 @@
 ## What a pleasant surprise to find you here! <img src="https://github.com/mrvishalsharma01/mrvishalsharma01/blob/main/wave.gif" width="30">   
 
-I'm [Vishal Sharma](https://www.linkedin.com/in/vishalksh/), and I'm starting my Master's in Computer Applications at World College of Technology and Management. I'm really interested in technology and always open to working on new and exciting projects. Let's connect and see what we can create together!
+I'm [Vishal Sharma](https://www.linkedin.com/in/vishalksh/), and I'm starting my Master's in Computer Applications at World College of Technology and Management. I'm really interested in technology and always open to work on new and exciting projects. Let's connect and see what we can create together!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrvishalsharma01.mrvishalsharma01)
 [![GitHub Vishal Sharma](https://img.shields.io/github/followers/VishalSharma?label=follow&style=social)](https://github.com/mrvishalsharma01)
