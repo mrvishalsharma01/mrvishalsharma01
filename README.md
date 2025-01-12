@@ -15,7 +15,7 @@ mrvishalsharma01/mrvishalsharma01 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <p>
-<a href="https://github.com/mrvishalsharma01/github-readme-streak-stats">
+<!-- <a href="https://github.com/mrvishalsharma01/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Sharma streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvishalsharma01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
+</a> -->
 </p>
